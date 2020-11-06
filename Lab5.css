@@ -1,0 +1,51 @@
+/* #0C2159 very dark blue
+closer to royal blue #20448C
+#4E71D9 kind of a perry winkle
+#375C8C grey blue
+#DEECFD whitish blue probably a good font or out line */
+
+html {
+    box-sizing: border-box;
+
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+header{ width: 100%;
+    height: 150px;
+    justify-content: center;
+    background-color: #0C2159 ;
+   
+}
+
+h1{ 
+    font-family: 'Carter One', cursive;
+    color: #DEECFD;
+    text-decoration: ;
+    font-size:36px;}
+
+h2{ font-family: 'Carter One', cursive;
+    color: #DEECFD;
+    font-size: 24px;}
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+
+header{ width: 100%;
+        text-align: center;
+}
+
+   .projects img{ 
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+  }
+
+
+        
+
+
+
